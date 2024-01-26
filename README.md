@@ -24,3 +24,7 @@ ___
 - Изучено настоящее время
 
 - :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ifaqer)
+
+# Мои лучшие качества:
+
+- :muscle: Я целеустремленный!
