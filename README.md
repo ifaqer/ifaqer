@@ -30,9 +30,9 @@ ___
 <li>...</li>
 <li>...</li>
 <li>...</li>
-<li>...</li>
-<li>...</li>
-<li>...</li>
+<li>:x:</li>
+<li>:x:</li>
+<li>:x:</li>
 </ul>
 </div>
 
