@@ -25,7 +25,10 @@ ___
 <h2> :closed_book: Мои познания в английском:</h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'/>
 <p>К сожалению, мои знания в английском слабоваты. В школе плохо преподавали, т.к всегда была оценка "5", но языка особо и не знал. Сам сейчас своевременно изучаю его. Знаю перевод большого кол-ва слов, однако не хватает граматики, которую сейчас активно изучаю:</p>
+<ul>
+<li>...</li>
+</ul>
 </div>
-- ...
+
+
 ___
-## :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ifaqer)
