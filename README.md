@@ -4,7 +4,7 @@
 ___
 <p align="center">
   <img width="600" src="github-snake.svg" alt="snake"/>
-  <h2>Изученные технологии и инструменты:</h2>
+  <h1>Изученные технологии и инструменты:</h1>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -19,7 +19,7 @@ ___
 
 Не скажу, что эти технологии прям изучены, но как минимум опыт работы с ними имеется. За другие инструменты и технологии не пишу, т.к если с ними и было взаимодействие, то минимальное! Список со временем будет пополняться и обновляться) Пожелайте мне удачи!
 
-### :es: Мои познания в английском:
+## :closed_book: Мои познания в английском:
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
