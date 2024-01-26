@@ -21,4 +21,4 @@ ___
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ifaqer)
+- :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/-Написать-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ifaqer)
