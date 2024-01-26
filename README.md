@@ -14,7 +14,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  <img src="icons/vscode.png](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 </div>
 </p>
 
