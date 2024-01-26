@@ -1,10 +1,6 @@
 # :wave: Приветствую тебя, дорогой друг!
 ### :man_technologist: Немного о себе:
-<div>
-<img align='right' src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYyNDA5ODYsIm5iZiI6MTcwNjI0MDY4NiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI2VDAzNDQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlM2E1MDc2MTY1ZDVkNzEzODM5MmNkY2QxMjRiMGRjZmZhMzhmNjZiYjI4ZTY0OWUyYzFkZDVmNjQ0NmZmOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xBXqCSR6OtBLU1qttSeBHnwgFjLjZVWvlAH7v4SZ7KY" width="200"/>
-<p>Меня зовут Александр, мне 21 годик. Занимаюсь различными хобби, в том числе и программированием в сфере WEB-технологий. Очень нравится это направление! Начал свое изучение еще с проекта в 10 классе, когда я написал свой первый лендинг с помощью HTML + CSS. Отсюда и начался мой путь к FULLSTACK-разработчику. Продолжаю саморазвиваться и самообучаться за счет видеороликов на YouTube и различных бесплатных курсов. И моя история только начинается...</p>
-</div>
-
+Меня зовут Александр, мне 21 годик. Занимаюсь различными хобби, в том числе и программированием в сфере WEB-технологий. Очень нравится это направление! Начал свое изучение еще с проекта в 10 классе, когда я написал свой первый лендинг с помощью HTML + CSS. Отсюда и начался мой путь к FULLSTACK-разработчику. Продолжаю саморазвиваться и самообучаться за счет видеороликов на YouTube и различных бесплатных курсов. И моя история только начинается...
 ___
 
 <p align="center">
