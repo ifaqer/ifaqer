@@ -23,8 +23,4 @@ ___
 К сожалению, мои знания в английском слабоваты. В школе прохо преподавали, т.к всегда была оценка "5", но языка особо и не знал. Сам сейчас своевременно изучаю его. Знаю перевод большого кол-ва слов, однако не хватает граматики, которую сейчас активно изучаю:
 - Изучено настоящее время
 
-- :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ifaqer)
-
-# Мои лучшие качества:
-
-- :muscle: Я целеустремленный!
+# :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ifaqer)
