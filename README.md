@@ -38,7 +38,8 @@ ___
 <li>React Pagination</li>
 <li>Code Splitting, React Loadable, useWhyDidYouUpdate</li>
 </ul>
-<p>Смотреть <a href="https://github.com/ifaqer/react-pizza">ДЕМО</a></p>
+<p>Смотреть демо: <a href="https://github.com/ifaqer/react-pizza">react-pizza</a> (разрабатывается сейчас)</p>
+<p>Мой первый недоработанный проект на REACT: <a href="https://github.com/ifaqer/magazine-snickers">magazine-snickers</a></p>
 </div>
 
 
