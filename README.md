@@ -38,7 +38,7 @@ ___
 <li>React Pagination</li>
 <li>Code Splitting, React Loadable, useWhyDidYouUpdate</li>
 </ul>
-<p>Смотреть ДЕМО: <a href="https://github.com/ifaqer/react-pizza">REACT PIZZA</a></p>
+<p>Смотреть <a href="https://github.com/ifaqer/react-pizza">ДЕМО</a></p>
 </div>
 
 
