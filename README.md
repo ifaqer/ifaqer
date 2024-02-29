@@ -39,7 +39,7 @@ ___
 <li>Code Splitting, React Loadable, useWhyDidYouUpdate</li>
 </ul>
 <p>Смотреть демо: <a href="https://github.com/ifaqer/react-pizza">react-pizza</a> (разрабатывается сейчас)</p>
-<p>Мой первый недоработанный проект на REACT: <a href="https://github.com/ifaqer/magazine-snickers">magazine-snickers</a></p>
+<p>Мой первый проект на REACT: <a href="https://github.com/ifaqer/magazine-snickers">magazine-snickers</a></p>
 </div>
 
 
