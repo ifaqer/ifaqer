@@ -23,23 +23,9 @@ ___
 Не скажу, что эти технологии прям изучены, но как минимум **опыт работы с ними имеется**. За другие инструменты и технологии не пишу, т.к если с ними и было взаимодействие, то минимальное! Список со временем будет пополняться и обновляться) Пожелайте мне удачи!
 ___
 <div>
-<h2> ⚡ Чем я занимаюсь сейчас?</h2>
+<h2> ⚡ Наполняем портфолио)))</h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200"/>
-<p>Создаю проект на основе обучения и изучаю/закрепляю след. технологии:</p>
-<ul>
-<li>ReactJS 18</li>
-<li>TypeScript</li>
-<li>Redux Toolkit</li>
-<li>React Router v6</li>
-<li>Axios + Fetch</li>
-<li>React Hooks</li>
-<li>CSS-Modules / SCSS</li>
-<li>React Content Loader</li>
-<li>React Pagination</li>
-<li>Code Splitting, React Loadable, useWhyDidYouUpdate</li>
-</ul>
-<p>Смотреть демо: <a href="https://github.com/ifaqer/react-pizza">react-pizza</a> (разрабатывается сейчас)</p>
-<p>Мой первый проект на REACT: <a href="https://github.com/ifaqer/magazine-snickers">magazine-snickers</a></p>
+
 </div>
 
 
