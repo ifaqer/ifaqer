@@ -26,5 +26,6 @@ ___
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200"/>
 <p>💻 Мои разработки, ознакомьтесь:</p>
-Мой первый проект: <a href="https://github.com/ifaqer/magazine-snickers/tree/master">👟 Магазин кросовок на React</a>
+👟 Мой первый проект: <a href="https://github.com/ifaqer/magazine-snickers/tree/master">Магазин кросовок на React</a>
+🍕 Мой второй проект: <a href="https://github.com/ifaqer/React-Pizza-v2-REMASTERED">Сайт для сети пицеррий</a>
 
