@@ -25,5 +25,6 @@ ___
 	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/>
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200"/>
-### 💻 Мои разработки, ознакомьтесь:
+💻 Мои разработки, ознакомьтесь:
+(тест)[https://emojicopy.com]
 
