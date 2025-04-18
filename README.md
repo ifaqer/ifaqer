@@ -42,11 +42,11 @@
 
 Имею опыт написания SPA приложений на React. Умею работать со следующими концепциями:
 - Понимаю и умею работать с `Components`, `JSX`, `Fragment`, `Props`, `children`, `keys`, `rendering`, `VirtualDOM`, `Custom hooks`, `Context`, `Portals`, `Suspence`, `Error Boundaries (библиотека)`, `lazy`, `memo`, `forwardRef`, `Profiler`
-- Синтаксис и особенности написания компонентов на React
+- Особенности написания компонентов на React (лучшие практики)
 - Жизненный цикл рендеринга: `componentDidMount`, `componentDidUpdate`, `componentWillUnmount`
 - Понимаю как работают и когда стоит использовать хуки: `useState`, `useReducer`, `useEffect`, `useLayoutEffect`, `useRef`, `useContext`, `useMemo`, `useCallback`, `useActionState (React19)`, `useFormStatus (React19)`, `use (React19)`
 - Что такое компонент высшего порядка, чистый компонент
-- Что такое и чем отличается SSR, SSG и ISR
+- Как происходит рендеринг на стороне клиента (CSR) и на сервере (SSR)
 - Оптимизация производительности приложения React
 - Базовая типизация на TypeScript
 - Использование React Developer Tools и Profiler
