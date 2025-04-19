@@ -57,7 +57,7 @@
 - Настройка webpack.config.js: `entry`, `output`, `loaders`, `plugins`, `mode`, `devServer`, `devtool`, `extensions`, `alias`
 - Динамические имена: `[name]`, `[id]`, `[hash]`, `[chunkhash]`, `[contenthash]`
 - Лоадеры: `asset/resource`, `style-loader`, `css-loader`, `sass-loader`, `ts-loader`, `source-map-loader`, `MiniCssExtractPlugin.loader`, `babel-loader`, `@svgr/webpack`
-- Плагины: `html-webpack-plugin`, `mini-css-extract-plugin`, `copy-webpack-plugin`, `webpack-bundle-analyzer`, `webpack.DefinePlugin`, `webpack.ProgressPlugin`, `webpack-manifest-plugin`, `@pmmmwh/react-refresh-webpack-plugin`
+- Плагины: `html-webpack-plugin`, `mini-css-extract-plugin`, `copy-webpack-plugin`, `webpack-bundle-analyzer`, `webpack.DefinePlugin`, `webpack.ProgressPlugin`, `fork-ts-checker-webpack-plugin`, `webpack-manifest-plugin`, `@pmmmwh/react-refresh-webpack-plugin + react-refresh-typescript`
 - Что делает Manifest и как работает webpack за кулисами?
 - HMR, Tree Shaking
 - CommonJS база для webpack
