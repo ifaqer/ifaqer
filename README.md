@@ -46,12 +46,12 @@
 - Символы `Symbol` их предназначение и использование
 - Отличие и использование: `Map`, `Set`, `WeakMap`, `WeakSet` и их методы!
 - Умею работать с `Date`, `Math`, `FormData`, `декораторами` и др.
-- Написание, понимание и использование `debounce` и ` throttling`
+- Написание, понимание и использование `debounce` и `throttling`
 - Понимаю работу контекста выполнения и цепочки прототипов
 - Работа с DOM: `выборка элементов`, `создание и удаление`, `изменение стилей, классов и атрибутов`, `обработка событий` 
 - Работа с BOM: `window`, `location`, `history`, `navigator`, cookies, localStorage, sessionStorage
 - Умею пользоваться `Intersection Observer API`, использую для инфинит-скролла и `lazy-loading`
-- Владею концепцией веб-компонентов: `Custom Elements`, `Shadow DOM`, `template`, `slot`, и методы жизненного цикла компонентов (`connectedCallback`, `disconnectedCallback`, `observedAttributes`, ` attributeChangedCallback`)
+- Владею концепцией веб-компонентов: `Custom Elements`, `Shadow DOM`, `template`, `slot`, и методы жизненного цикла компонентов (`connectedCallback`, `disconnectedCallback`, `observedAttributes`, `attributeChangedCallback`)
 - Понимаю такие концепции, как: `Reflow`, `Repaint`, `CORS`, `декларативность`, `императивность`, `IIFE`, 
 - Понимаю ООП принципы: `Инкапсуляция`, `Наследование`, `Полиморфизм`, `Композиция`, `Абстракция`
 - Понимаю ФП принципы: `чистая функция`, `иммутабельность`, `объект первого класса`, `функция высшего порядка`, `отсутствие побочных эффектов`
