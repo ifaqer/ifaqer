@@ -49,7 +49,7 @@
 - Написание, понимание и использование `debounce` и `throttling`
 - Понимаю работу контекста выполнения и цепочки прототипов
 - Работа с DOM: `выборка элементов`, `создание и удаление`, `изменение стилей, классов и атрибутов`, `обработка событий` 
-- Работа с BOM: `window`, `location`, `history`, `navigator`, cookies, localStorage, sessionStorage
+- Работа с BOM: `window`, `location`, `history`, `navigator`, `cookies`, `localStorage`, `sessionStorage`
 - Умею пользоваться `Intersection Observer API`, использую для инфинит-скролла и `lazy-loading`
 - Владею концепцией веб-компонентов: `Custom Elements`, `Shadow DOM`, `template`, `slot`, и методы жизненного цикла компонентов (`connectedCallback`, `disconnectedCallback`, `observedAttributes`, `attributeChangedCallback`)
 - Понимаю такие концепции, как: `Reflow`, `Repaint`, `CORS`, `декларативность`, `императивность`, `IIFE`, 
