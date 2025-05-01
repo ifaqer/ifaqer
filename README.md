@@ -6,21 +6,22 @@
 Меня зовут __Александр__, мне 22 и я __Junior Frontend-разработчик__ _(самоучка)_ c небольшим личным коммерческим опытом. Фанатею по веб-разработке, люблю создавать веб-приложения с клиентским и серверным функционалом. Много материала пришлось изучить и опробовать на практике через видеоролики и офиц. документацию технологий. Первые шаги начались в 16 лет с изучения HTML + CSS, а после поступления в вуз начал изучать JS и React. На данный момент я опробовал, на мой взгляд, довольно много технологий, необходимых для написания web-приложений, и выбрал свой путь в сторону React + Next.js. И мой путь только начинается...
 <h1>⚡ Изучаемые технологии и инструменты:</h1>
 <div >
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
-	<img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
+	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" alt="webpack" title="webpack"/>
+	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+	<img width="38.7" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="React Query" title="React Query"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
+	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200"/>
 <p>💻 <b>Мои разработки, ознакомьтесь:</b></p>
@@ -64,7 +65,7 @@
 - Работа с массивами `Array<T>` и кортежами `[T1, T2]`, объединение типов `extends`, операторы `&` и `|`
 - Понимаю следующие свойства: `?`, `public`, `private`, `protected`
 - Использование `declare` для объявления деклараций `.d.ts`
-- Владею базовой типизацией React и настройкой tsconfig.json 
+- Владею базовой типизацией React и настройкой tsconfig.json
 
 ## 🚀 Библиотека React (v.19):
 > Имею практический опыт разработки одностраничных приложений (SPA) на React. Уверенно владею ключевыми концепциями и современными возможностями библиотеки, включая нововведения React 19. Основные компетенции:
@@ -77,6 +78,7 @@
 - Как происходит рендеринг на стороне клиента (CSR) и на сервере (SSR)
 - Оптимизация производительности приложения React
 - Базовая типизация на TypeScript
+- Давно использовал `Redux`, сейчас есть практика с `Zustand` и `MobX` менеджерами состояний!
 - Использование React Developer Tools и Profiler
 
 ## 🫸🏼 Библиотека TanStack Query (v.5)
